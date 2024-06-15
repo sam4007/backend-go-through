@@ -1,0 +1,16 @@
+{
+  "name": "backend-complete-go-through",
+  "version": "1.0.0",
+  "description": "a beginner level guide to backend development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "express",
+    "node"
+  ],
+  "author": "piyush kumar",
+  "license": "ISC"
+}
